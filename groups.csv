@@ -1,0 +1,4 @@
+group_id,chit_value,members,subscription,foreman_commission_pct,auction_day,start_month,lot_seed
+GRP-001,100000.00,20,5000.00,5,15,2025-03,4121
+GRP-002,250000.00,25,10000.00,5,12,2024-10,9087
+GRP-003,200000.00,40,5000.00,5,18,2023-07,2753
